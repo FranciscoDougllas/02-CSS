@@ -1,2 +1,2 @@
-# 02-CSS
- 02-CSS Web Developer
+# CSS
+Desenvolvimento e Estudos CSS
